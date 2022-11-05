@@ -1,1 +1,1 @@
-Este é um projeto desenvolvido com aulas da trila NLW da Rocketseat 'NLW-Copa 2022'
+Este é um projeto desenvolvido com aulas da trilha NLW da Rocketseat 'NLW-Copa 2022'
